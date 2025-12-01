@@ -21,7 +21,7 @@
 
 <h1><a href="https://github.com/CheloMacatangay/ELEC03---Data-Analytics/blob/main/Project5_Machine_Learning.ipynb">PROJECT 5</a></h1>
 
-<h1><a href="">PROJECT 6</a></h1>
+<h1><a href="https://github.com/CheloMacatangay/ELEC03---Data-Analytics/blob/main/Project6_TitanicSurvavility_MachineLearning.ipynb">PROJECT 6</a></h1>
 
 <h1><a href="">PROJECT 7</a></h1>
 
